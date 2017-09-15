@@ -1,0 +1,2 @@
+C:\Users\Dell\Source\Repos\Testapp\Testapp\bin\Debug\Testapp.exe.config
+C:\Users\Dell\Source\Repos\LearnGithub\Testapp\bin\Debug\Testapp.exe.config
